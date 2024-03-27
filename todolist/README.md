@@ -1,8 +1,29 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My First project at ITHS React course 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+För G
+
+Sätta upp ett React projekt med create-react-app eller med Vite
+
+Minst 3 funktionskomponenter
+
+Ta emot och "injicera"” minst en prop
+
+Hantera minst ett event
+
+Använd ett formulärsfält och spara innehåll till state
+
+Använd hooks (på ett korrekt sätt): useState & useEffect
+
+Projektet skall starta efter npm/yarn install & npm/yarn start utan några konsoll-fel
+
+För VG
+
+Använd hooks: useRef
+Minst 5 komponenter
+Enhetligt formaterad kod (Använd https://prettier.io/ extension i VS Code)
+
+
